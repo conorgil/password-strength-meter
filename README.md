@@ -11,6 +11,7 @@ Ideas, notes, and brainstorms for creating a password strength meter that takes 
 * [Why you can’t trust password strength meters](https://nakedsecurity.sophos.com/2015/03/02/why-you-cant-trust-password-strength-meters/)
 * [The Pitfalls of Password Strength Meters](https://www.infosecurity-magazine.com/blogs/password-strength-meters/)
 * [The Password Meter](http://www.passwordmeter.com/)
+* [From Very Weak to Very Strong: Analyzing Password-Strength Meters](https://www.ndss-symposium.org/ndss2014/programme/very-weak-very-strong-analyzing-password-strength-meters/)
 
 # Ideas
 * only warn when a password is **known** to be weak?
