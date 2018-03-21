@@ -9,6 +9,8 @@ Ideas, notes, and brainstorms for creating a password strength meter that takes 
 * [UK's NCSC](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach)
 * [I've Just Launched "Pwned Passwords" V2 With Half a Billion Passwords for Download](https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/)
 * [Why you can’t trust password strength meters](https://nakedsecurity.sophos.com/2015/03/02/why-you-cant-trust-password-strength-meters/)
+* [The Pitfalls of Password Strength Meters](https://www.infosecurity-magazine.com/blogs/password-strength-meters/)
+* [The Password Meter](http://www.passwordmeter.com/)
 
 # Ideas
 * only warn when a password is **known** to be weak?
